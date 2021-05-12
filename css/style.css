@@ -30,12 +30,12 @@
 }
 .carousel-indicators{
 margin: 0;
-background: rgba(255, 255, 255, 0.671);
 }
 .carousel-caption{
     background: rgba(255, 255, 255, 0.671);
     width: 100vw;
-    height: 90px;
+    height: 150px;
+    bottom: 0;
     left: 0;
 }
 .carousel-caption *{
